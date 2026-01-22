@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/manuthi.magedaragama/viz/AirBnBFullProject_17682484493670/Dashboard1">
-    <img src="assets/dashboard_screenshot.png" alt="Seattle Airbnb Dashboard" width="800"/>
+    <img src="assests/AirBnB Dashboard.png" width="800"/>
   </a>
 </p>
 
