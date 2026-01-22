@@ -1,4 +1,4 @@
-# 🏙️ Seattle Airbnb Market Analysis: Strategic Investment Dashboard
+# 🏙️ Seattle Airbnb Market Analysis: Strategic Investment Dashboard(Tableau)
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/manuthi.magedaragama/viz/AirBnBFullProject_17682484493670/Dashboard1">
