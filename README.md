@@ -1,4 +1,12 @@
 # 🏙️ Seattle Airbnb Market Analysis: Strategic Investment Dashboard(Tableau)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard%20%26%20Visualization-orange)
+![Data Visualization](https://img.shields.io/badge/Data-Visualization-brightgreen)
+![Airbnb](https://img.shields.io/badge/Airbnb%20Market-Analysis-red)
+![Analytics](https://img.shields.io/badge/Analytics-Insights%20Driven-blue)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-blueviolet)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![Portfolio Project](https://img.shields.io/badge/Type-Portfolio%20Project-important)
+
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/manuthi.magedaragama/viz/AirBnBFullProject_17682484493670/Dashboard1">
